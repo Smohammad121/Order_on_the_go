@@ -6,7 +6,7 @@ SB Foods is a full-stack MERN-based food ordering application that allows users 
 
 ## 🚀 Demo Video
 
-🎥 [Click here to watch the demo video](https://drive.google.com/file/d/1wUCs8f_2uD7Opr5h4FBvdXgEHw80O1um/view?usp=drivesdk)
+🎥 [Click here to watch the demo video](https://drive.google.com/uc?id=1wUCs8f_2uD7Opr5h4FBvdXgEHw80O1um)
 
 ---
 
